@@ -1,0 +1,5 @@
+- 👋 Hi, we are the Lucky42 team
+- 👀 We are interested in IT (development)
+- 🌱 We are currently trying to improve our development skills (Python and Java for now)
+- 💞️ We are looking for nice and serious people so that we can improve our skills together and create useful projects
+- 📫 You can send us emails at lucky42@writeme.com
